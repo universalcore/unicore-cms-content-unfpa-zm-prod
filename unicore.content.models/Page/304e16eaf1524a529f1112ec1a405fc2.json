@@ -1,17 +1,17 @@
 {
   "subtitle": "What\u2019s happening to my body?", 
-  "description": "", 
+  "description": "What\u2019s happening to my body?", 
   "language": "eng_GB", 
   "title": "Teen Zone", 
   "primary_category": "2e06b96d5f1045ac99b914b55c9257e2", 
-  "created_at": "2015-07-14T09:37:00.693878+00:00", 
+  "created_at": "2015-07-14T09:37:00+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-14T09:37:00.694085+00:00", 
+  "modified_at": "2015-07-14T15:41:08.515340+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,13 +20,13 @@
     "dedf596d92ac4371a4ee8e3db342f6dc"
   ], 
   "id": null, 
-  "content": "\r\nYour body is growing and developing all the time. When you get to about 10 years old, you\u2019ll notice that your body starts to change in a different way. You\u2019ll start to grow breasts, genital hair (pubic hair) underarm hair, you\u2019ll get taller, your hips will get wider, you\u2019ll start to sweat more and you may get pimples on your face. \r\n\r\nThese are your teenage years and what you\u2019re going through is called puberty. It\u2019ll continue until you\u2019re about 16 years old as you change from a girl into a woman. \r\n\r\n**So what\u2019s causing all these changes?** \r\nYour body starts to produce new hormones (chemicals) when you hit puberty. The hormones are responsible for all your physical changes, but they\u2019re working on your emotions too. You may feel moody, sensitive, insecure, irritable or even sad. It\u2019s your body\u2019s way of dealing with all the changes you\u2019re going through. Sometimes it\u2019s good to have an adult that you can talk to.\r\n\r\n**I\u2019m bleeding too!**\r\nPuberty is a lot to deal with and you\u2019ll also start your period (menstrual cycle), when you bleed from your vagina. Once you get your period, it\u2019ll happen every month for a few days. You will need to wear something in your panties to catch the blood and avoid staining your clothes. Getting your period is the sign that you could now fall pregnant if you have unprotected sex. \r\n\r\nAlways remember that every girl develops in a different way and you are all unique! Don\u2019t worry if you\u2019re not growing breasts yet or haven\u2019t got your period yet - it will happen!   \r\n\r\n**Puberty can be a confusing and emotional time. There are no rules as to how your body will change into womanhood. Don\u2019t compare yourself to your friends. All the changes will happen at the right time!**\r\n", 
+  "content": "Your body is growing and developing all the time. When you get to about 10 years old, you\u2019ll notice that your body starts to change in a different way. You\u2019ll start to grow breasts, genital hair (pubic hair) underarm hair, you\u2019ll get taller, your hips will get wider, you\u2019ll start to sweat more and you may get pimples on your face. \r\n\r\nThese are your teenage years and what you\u2019re going through is called puberty. It\u2019ll continue until you\u2019re about 16 years old as you change from a girl into a woman. \r\n\r\n**So what\u2019s causing all these changes?** \r\nYour body starts to produce new hormones (chemicals) when you hit puberty. The hormones are responsible for all your physical changes, but they\u2019re working on your emotions too. You may feel moody, sensitive, insecure, irritable or even sad. It\u2019s your body\u2019s way of dealing with all the changes you\u2019re going through. Sometimes it\u2019s good to have an adult that you can talk to.\r\n\r\n**I\u2019m bleeding too!**\r\nPuberty is a lot to deal with and you\u2019ll also start your period (menstrual cycle), when you bleed from your vagina. Once you get your period, it\u2019ll happen every month for a few days. You will need to wear something in your panties to catch the blood and avoid staining your clothes. Getting your period is the sign that you could now fall pregnant if you have unprotected sex. \r\n\r\nAlways remember that every girl develops in a different way and you are all unique! Don\u2019t worry if you\u2019re not growing breasts yet or haven\u2019t got your period yet - it will happen!   \r\n\r\n**Puberty can be a confusing and emotional time. There are no rules as to how your body will change into womanhood. Don\u2019t compare yourself to your friends. All the changes will happen at the right time!**\r\n", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 18, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "teen-zone", 
   "uuid": "304e16eaf1524a529f1112ec1a405fc2"
