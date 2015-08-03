@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Spot the signs", 
+  "language": "eng_GB", 
+  "title": "How to handle an abuser", 
+  "primary_category": "aabb61cb0eed43b4a5a99d45b3e6e955", 
+  "created_at": "2015-08-03T20:49:52.900850+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-08-03T20:49:52.901027+00:00", 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Abuse is against the law. If you are under 18 you are regarded as a minor and there are laws to protect you and to punish abusers.   \r\n\r\nYour abuser may also threaten to hurt you even more if you tell anyone what they are doing to you. It is not your fault that you\u2019re being abused, and it never will be.  \r\n\r\n**Have an action plan:**\r\n\r\n+ *Speak up!* It might be the last thing you want to do, but you need to tell someone about it. You can report abuse to the police or choose an adult you trust. You can tell a teacher, a nurse at the clinic, a pastor or a friend. \r\n+ *Know the warning signs!* Watch out for signs and clues that your abuser is getting upset and may explode in anger or violence. Come up with several believable reasons you can use to leave the space (both during the day and at night) if you sense trouble brewing. \r\n+ *Find safe areas!* Know where to go if your abuser attacks or an argument starts. It could be a neighbour, relative or a public space. Avoid small, enclosed spaces without exits.\r\n\r\n**Tell an adult that you trust each time the abuse happens. Sometimes adults may not want to believe what you are telling them. But keep telling people what has happened until someone believes you and knows how to help you. Try and record the abuser so you have some evidence.**", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-handle-abuser", 
+  "uuid": "c00045555c654e73a31607a3625c9b25"
+}
